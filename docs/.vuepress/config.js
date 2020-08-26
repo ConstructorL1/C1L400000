@@ -1,3 +1,5 @@
+// https://vuepress.vuejs.org/guide/directory-structure.html
+
 const navConf = require("./config/navConf");
 const headConf = require("./config/headConf");
 const pluginConf = require("./config/pluginConf");
